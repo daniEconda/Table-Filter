@@ -140,5 +140,45 @@ export const People: Person[] = [
     category: 'employee',
     company: 'The Director’s Cut',
     levelOfHappiness: '56'
+  },
+  {
+    id: '21',
+    name: 'Samad Emery',
+    category: 'employee',
+    company: 'My Hair Lady',
+    levelOfHappiness: '85'
+  },
+  {
+    id: '22',
+    name: 'Ellouise Hammond',
+    category: 'employee',
+    company: 'The Director’s Cut',
+    levelOfHappiness: '46'
+  },  {
+    id: '23',
+    name: 'Samad Emery',
+    category: 'employee',
+    company: 'My Hair Lady',
+    levelOfHappiness: '25'
+  },
+  {
+    id: '24',
+    name: 'Ellouise Hammond',
+    category: 'employee',
+    company: 'The Director’s Cut',
+    levelOfHappiness: '66'
+  },  {
+    id: '25',
+    name: 'Samad Emery',
+    category: 'employee',
+    company: 'My Hair Lady',
+    levelOfHappiness: '32'
+  },
+  {
+    id: '26',
+    name: 'Ellouise Hammond',
+    category: 'employee',
+    company: 'The Director’s Cut',
+    levelOfHappiness: '54'
   }
 ];
